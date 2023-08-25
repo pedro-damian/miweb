@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Texto
+=======
+Texto 1
+Texto 2
+>>>>>>> rama-secundaria
