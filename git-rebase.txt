@@ -2,9 +2,3 @@ Main 1
 Main 2
 Main 3
 
-
-
-
-Experimento 1
-Experimento 2
-Experimento 3
